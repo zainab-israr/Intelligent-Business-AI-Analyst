@@ -1,0 +1,9 @@
+Monthly Report - Example
+Period: September 2025
+Sales: Up 12% vs previous month.
+Churn: Down 3% (improved retention after onboarding revamp).
+Top Issues: Customer support response time and a recurring bug in product B.
+Action Items:
+- Improve support SLAs
+- Fix bug in product B
+- Run targeted retention campaign for at-risk users

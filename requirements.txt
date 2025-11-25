@@ -101,9 +101,6 @@ PyGetWindow==0.0.9
 Pygments==2.18.0
 PyJWT==2.9.0
 PyMsgBox==2.0.1
-pyobjc-core==12.1
-pyobjc-framework-Cocoa==12.1
-pyobjc-framework-Quartz==12.1
 pyparsing==3.1.2
 pyperclip==1.11.0
 pyproject-toml==0.0.10
